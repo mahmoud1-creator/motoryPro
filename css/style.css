@@ -1,0 +1,278 @@
+/* @media (min-wdith : 600px) {Smallscreen} */
+/* @media (min-wdith : 768px) {medium screen} */
+/* @media (min-wdith : 992px) {larg screen} */
+/* @media (min-wdith : 1200px) {extar larg screen} */
+
+
+/*  start Nav */
+.nav1{
+    background: url(../img/background.jpg);
+	background-size: cover;
+	height: 800px;
+
+
+}
+.navbar{
+    font-size: 20px;
+    width: 100%;
+    color: aliceblue !important; 
+}
+a.nav-item.nav-link.active.home1{
+    margin-left: 35%;
+}
+
+.navbar-nav a ,.navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-size: 20px !important;
+    margin-left: 40px;
+}
+.navbar-brand{
+    font-size: 28px !important;
+}
+.navbar-nav a:hover{
+    color: red;
+}
+.h22{
+    margin-top: 10%;
+    font-size: 60px;
+    margin-left: 100px;
+    color: aliceblue;
+}
+
+.h22 span{
+    color: rgb(201, 5, 44);
+}
+.p1{
+    font-size: 25px;
+    margin-left: 100px;
+    color: aliceblue;
+    margin-top: 50px;
+}
+
+/*    start WhatIdoBest   */
+.WhatIdoBest{
+    background-color: #333a3d;
+    text-align: center;
+    font-size: 20px;
+
+}
+.WhatIdoBest h4{
+    color: white;
+}
+.WhatIdoBest p{
+    color: #cecece;
+}
+.WhatIdoBest i{
+    color: brown;
+    font-size: 40px;
+}
+/* start about */
+.littleAbout{
+    padding-top: 20px;
+    background-color: #222a2e;
+}
+.littleAbout img{
+    border-radius: 10px;
+}
+.littleAbout h3{
+    color: white;
+}
+.littleAbout .mra{
+    padding-left: 80px;
+}
+.littleAbout p{
+    color: #cecece;
+}
+.about{
+    margin-left: 20px;
+}
+.littleAbout i {
+    color: brown;
+    font-weight: bold;
+    font-size: 20px;
+}
+.littleAbout strong{
+    color: white;
+}
+
+/* Start Skills and Education */
+
+.Skills{
+    background-color: #303235;
+    height: 500px;
+}
+.about1{
+    color: aliceblue;
+    margin-top: 100px;
+    font-size: 20px;
+    
+}
+.progress{
+    margin-top: 60px;
+}
+.btn{
+    width: 200px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+/* start Progress */
+
+
+
+/* Testimonials */
+.Testimonials{
+    background: #222a2e;
+    height: 470px;
+    color: #fff;
+
+}
+.Testimonials1{
+    margin-left: 50px;
+    padding:70px;
+
+}
+.testim-rating{
+    color: rgb(247, 217, 49);
+}
+
+.div1{
+    background: #454546;
+    border-left: 6px solid #e52a3d;
+    color: #cecece;
+    height: 90px;
+    font-size: 20px;
+    width: 550px;
+}
+
+
+      
+.Testimonials img {
+    border-radius: 50%;
+    height: 80%;
+    padding: 10px;
+}
+/* start Gellary */
+.Gallery{
+    background: #333a3d;
+    padding: 30px;
+    height: 800px;
+   
+}
+.G1{
+    font-size: 40px;
+    color: #fff;
+}
+.G2{
+    font-size: 20px;
+    color: #c2c3c5;
+
+}
+.G3{
+    text-align: center;
+    font-size: 20px;
+    color: rgb(185, 182, 182);
+    padding: 20px;
+}
+
+.evry{
+    margin-left: 200px;
+    margin-top: 10px;
+	padding: 8px;
+	width: 100%;
+    
+}
+.evry1{
+
+    width: 25%;
+    border-radius: 10px 10px;
+    padding: 5px;
+}
+/* start Pricing */
+.price-box-white {
+    text-align: center;
+    background-color: #333a3d;
+    border: 1px solid #333a3d;
+    box-shadow: 0 12px 55px 0 rgb(0 0 0 / 25%);
+    padding: 50px 20px;
+    width: 90%;
+    margin-top: 30;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border-radius: 8px 8px;
+    transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+}
+ul, ol {
+    list-style: none;
+    list-style-image: none;
+    margin: 0;
+    padding: 0;
+    color: #cecece;
+    font-size: 18px;
+    line-height: 28px;
+    margin-bottom: 20px;
+}
+ul.pricing-list li.price-title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+    letter-spacing: 1px;}
+
+
+.pricing{
+    background: #222a2e;
+    height: 500px;
+    color: floralwhite;
+    padding: 130px;
+}
+
+/* start FQA */
+.FAQ{
+    background: #333a3d;
+    height: 550px;
+    padding: 50px;
+    color: #fff;
+    
+}
+.FAQ1{
+    margin-left: 100px;
+}
+.FAQ1 h5 p{
+   
+    color: #8b8c8f;
+    padding: 20px;
+}
+/* Fun Facts About My Work */
+.Work{
+    background-color: rgb(228, 55, 55);
+    color: aliceblue;
+    height: 400px;
+    padding: 100px;
+
+}
+.fun-facts-box i {
+    font-size: 45px;
+    line-height: 60px;
+    color: #fff;
+    padding: 20px;
+}
+/* Get In Touch */
+.touch{
+    background-color: #3e3e3f;
+    color: white;
+    padding: 4%  10%;
+}
+/* footer */
+.final{
+    background-color: aliceblue;
+    height: 80px;
+    font-size: 20px;
+    padding: 20px;
+
+}
+.final span{
+    color: red;
+    font-size: 23px;
+}

@@ -1,0 +1,186 @@
+@media (max-width:600px) {
+
+    .nav1 {
+        background: url(../img/background.jpg);
+        background-size: cover;
+        height: 226px;
+        width: 449px !important;
+
+    }
+
+    .navbar {
+        height: 38px;
+        color: aliceblue !important;
+    }
+
+        .h22{
+
+            margin-top: 10%;
+            font-size: 10px;
+            margin-left: 30px;
+            color: aliceblue;
+        }
+
+        .p1 {
+            font-size: 8px;
+            margin-left: 30px;
+            color: aliceblue;
+            margin-top: 17px;
+        }
+
+        .navbar-brand {
+            font-size: 2px !important;
+            margin-left: 10px;
+        }
+
+        .container {
+            width: 100%;
+            padding-right: 98px;
+            
+        }
+        .littleAbout img {
+            border-radius: 12px;
+            width: 270px;
+        }
+
+        .littleAbout .mra {
+            padding-left: 23px;
+            margin-top: 14px;
+        }
+        
+
+        .h2, h2 {
+            font-size: 2rem;
+            font-size: 25px;
+            margin-top: -50px;
+            
+        }
+
+        p {
+            margin-top: 0;
+            font-size: 12px;
+        }
+        .Skills {
+            height: 705px;
+        }
+
+
+        .Testimonials1 {
+            margin-left: -18px;
+            padding: 31px;
+            margin-top: -2px;
+            height: 225px;
+            
+        }
+        .div1 {
+            height: 90px;
+            font-size: 12px;
+            width: 310px;
+        }
+
+        .G1 {
+            font-size: 25px;
+            margin-top: 28px;
+            margin-left: -82px;
+        }
+
+        .G2 {
+            font-size: 15px;
+            margin-left: -73px;
+        }
+        .evry {
+            margin-left: -3px;
+            margin-top: -2px;
+            padding: 5px;
+            width: 100%;
+        }
+        .G3 {
+          
+            font-size: 15px;
+            margin-left: -84px;
+        }
+        .Gallery {
+            background: #333a3d;
+            padding: 40px;
+            height: 324px;
+        }
+
+        .o11{
+            padding: -20px;
+        }
+
+        .o11 {
+            margin-left: -33px;
+            margin-top: -53px;
+            text-align: center;
+            font-size: 17px;
+        }
+
+        .o12 {
+            margin-left: -41px;
+            margin-top: 7px;
+            text-align: center;
+            font-size: 12px;
+        }
+
+        .price-box-white {
+            padding: 50px 20px;
+            width: 250px;
+            margin-top: 30;
+            margin-bottom: 11px;
+            margin-left: -100px;
+            border-radius: 8px 8px;
+        }
+
+        .FAQ {
+            background: #333a3d;
+            height: 551px;
+            padding: 21px;
+            color: #fff;
+            margin-left: -55px;
+        }
+        .FQA1{
+            font-size: 22px;
+           margin-left: -31px;
+
+        }
+        .FQA2{
+            font-size: 1px;
+            margin-left: -115px;
+            padding: 6px;
+        }
+
+        .Work {
+            height: 782px;
+            padding: 9px;
+            margin-left: -90px;
+        }
+        .h1, h1 {
+            font-size: 22px;
+            margin-left: 15px;
+        }
+
+        .touch {
+            padding: 4% 10%;
+            margin-top: 361px;
+            margin-left: -266px;
+            width: 200px;
+        }
+        .touch1{
+            height: 361px;
+    margin-left: -5px;
+        }
+        .touch2{
+            margin-right: -200px;
+            margin-left: -12px;
+
+        }
+        textarea {
+            width: 217px;
+            height: 95px;
+        }
+        .final1{
+            margin-left: -90px;
+            font-size: 10px;
+        }
+}
